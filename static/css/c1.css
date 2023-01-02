@@ -1,0 +1,19 @@
+h1
+{
+   background-color: ghostwhite;
+   color: grey;
+   margin: none;
+}
+h1:hover
+{
+    border-radius: 0px 0px 10px white;
+    margin: 20px;
+    padding: 10px;
+    background-color: gray;
+    color: black;
+    
+}
+body
+{
+    background-color: aliceblue;
+}
